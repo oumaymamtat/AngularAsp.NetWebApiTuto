@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qGIDuNbAy74b4LoAt+wcJgP59YVN7L2Wt+8s2VQauuumtubhJ7ulCjgg1cAiwnnrXldBv8zyT4uQCzvBHteICQ==",
+  "dgSpecHash": "ofoMcoJKwzP9oudCBYW3l3MA7Mbi/xgdf8Ft+LPhVGbABjoSc0HxZbmPI8J5CGJffE16Ma++Y2kNiGWrlRINCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oumayma\\Desktop\\AngularApiTuto\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Oumayma\\Desktop\\My Apps\\AngularAsp.NetWebApiTuto\\WebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oumayma\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.7\\microsoft.aspnetcore.jsonpatch.5.0.7.nupkg.sha512",
     "C:\\Users\\Oumayma\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.7\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.7.nupkg.sha512",

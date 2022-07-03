@@ -854,11 +854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oumayma\\Desktop\\AngularApiTuto\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Oumayma\\Desktop\\My Apps\\AngularAsp.NetWebApiTuto\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Oumayma\\Desktop\\AngularApiTuto\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Oumayma\\Desktop\\My Apps\\AngularAsp.NetWebApiTuto\\WebApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Oumayma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oumayma\\Desktop\\AngularApiTuto\\WebApi\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Oumayma\\Desktop\\My Apps\\AngularAsp.NetWebApiTuto\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oumayma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -918,7 +918,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
